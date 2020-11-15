@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="text1">00:00:00.000</string>
+    <string name="info1">Now this is another text. Enjoy!</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_reset">Reset</string>
+    <string name="sw_initial_text">00:00:00.000</string>
+</resources>
